@@ -1,0 +1,4 @@
+.vscode/.ropeproject
+data
+**/workspace/**
+!**/workspace/.gitkeep
