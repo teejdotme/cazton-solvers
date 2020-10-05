@@ -14,8 +14,7 @@
 
   - Basic aka reference **(complete)**
   - Hadoop/HDFS **(complete)**
-  - Spark/HDFS
-  - Spark/SQL2019
+  - Spark/HDFS **(complete)**
 
 ## Pre-requisites
 
@@ -27,3 +26,6 @@
 
 1. Execute `init.sh` to download the NOAA data
 1. Review the `README.md` files for individual solvers
+
+
+
